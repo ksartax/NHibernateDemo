@@ -1,0 +1,13 @@
+C:\Users\damia.DESKTOP-836KIV2\Desktop\materials\Module01\After\NHibernateDemo\bin\Debug\NHibernateDemo.exe.config
+C:\Users\damia.DESKTOP-836KIV2\Desktop\materials\Module01\After\NHibernateDemo\bin\Debug\NHibernateDemo.exe
+C:\Users\damia.DESKTOP-836KIV2\Desktop\materials\Module01\After\NHibernateDemo\bin\Debug\NHibernateDemo.pdb
+C:\Users\damia.DESKTOP-836KIV2\Desktop\materials\Module01\After\NHibernateDemo\bin\Debug\HibernatingRhinos.Profiler.Appender.v4.0.dll
+C:\Users\damia.DESKTOP-836KIV2\Desktop\materials\Module01\After\NHibernateDemo\bin\Debug\Iesi.Collections.dll
+C:\Users\damia.DESKTOP-836KIV2\Desktop\materials\Module01\After\NHibernateDemo\bin\Debug\NHibernate.dll
+C:\Users\damia.DESKTOP-836KIV2\Desktop\materials\Module01\After\NHibernateDemo\bin\Debug\Iesi.Collections.xml
+C:\Users\damia.DESKTOP-836KIV2\Desktop\materials\Module01\After\NHibernateDemo\bin\Debug\NHibernate.xml
+C:\Users\damia.DESKTOP-836KIV2\Desktop\materials\Module01\After\NHibernateDemo\obj\x86\Debug\NHibernateDemo.csproj.CoreCompileInputs.cache
+C:\Users\damia.DESKTOP-836KIV2\Desktop\materials\Module01\After\NHibernateDemo\obj\x86\Debug\NHibernateDemo.csproj.CopyComplete
+C:\Users\damia.DESKTOP-836KIV2\Desktop\materials\Module01\After\NHibernateDemo\obj\x86\Debug\NHibernateDemo.exe
+C:\Users\damia.DESKTOP-836KIV2\Desktop\materials\Module01\After\NHibernateDemo\obj\x86\Debug\NHibernateDemo.pdb
+C:\Users\damia.DESKTOP-836KIV2\Desktop\materials\Module01\After\NHibernateDemo\bin\Debug\NHibernateConf\hibernate.cfg.xml

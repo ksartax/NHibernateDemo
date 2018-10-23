@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+                   assembly="NHibernateDemo"
+                   namespace="NHibernateDemo">
+  <class name="Customer">
+    <id name="Id">
+      <generator class="native"/>
+    </id>
+    <property name="FirstName"/>
+    <property name="LastName"/>
+    <property name="Age"/>
+    <property name="Active" />
+    <property name="CreateTime" type="LocalDateTime" />
+    <property name="Sex" type="SexEnumType" />
+
+    <component name="Address">
+      <property name="Street"/>
+      <property name="City"/>
+      <property name="Province"/>
+    </component>
+
+      <!--Inverse = false to dodatkowo ustawia np Order.customerId = customerId-->
+    <set name="Orders" table="`Order`" cascade="all-delete-orphan" inverse="false"> 
+      <key column="CustomerId" />
+      <one-to-many class="Order" />
+    </set>
+  </class>
+</hibernate-mapping>
